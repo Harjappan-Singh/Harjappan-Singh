@@ -38,20 +38,21 @@ I'm a passionate 2nd year Software Development student at DKIT, diving deep into
 
 <div style="display:flex; justify-content:center;">
   <a href="https://github.com/Harjappan-Singh/task-list" style="margin-right:10px;">
-    <img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=task-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=task-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/Harjappan-Singh/Student_Sphere" style="margin-left:10px;">
-    <img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=Student_Sphere&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=Student_Sphere&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 <br/>
 
 <div style="display:flex; justify-content:center;">
   <a href="https://github.com/Harjappan-Singh/techtrek" style="margin-right:10px;">
-    <img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=techtrek&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=techtrek&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/Harjappan-Singh/Netflix_Clone" style="margin-left:10px;">
-    <img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=Netflix_Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=Netflix_Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+
 
