@@ -9,7 +9,7 @@ I'm a passionate 2nd year Software Development student at DKIT, diving deep into
 * 🌍  I'm based in Dundalk, Ireland
 * ✉️  You can contact me at [singhharjappan@gmail.com](mailto:singhharjappan@gmail.com)
 * 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on full stack applications
+* 🤝  I'm open to collaborating on full-stack applications
 * ⚡  I love listening to Punjabi Music
 
 ### Skills
@@ -36,8 +36,14 @@ I'm a passionate 2nd year Software Development student at DKIT, diving deep into
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Harjappan-Singh/task-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=task-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Harjappan-Singh/Student_Sphere" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=Student_Sphere&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Harjappan-Singh/task-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=task-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Harjappan-Singh/Student_Sphere" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=Student_Sphere&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Harjappan-Singh/techtrek" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=techtrek&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/Harjappan-Singh/techtrek" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=techtrek&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Harjappan-Singh/Netflix_Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=Netflix_Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
