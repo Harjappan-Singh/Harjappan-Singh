@@ -55,4 +55,13 @@ I'm a passionate 2nd year Software Development student at DKIT, diving deep into
   </a>
 </div>
 
+<div style="display:flex; justify-content:center;">
+  <a href="https://github.com/Harjappan-Singh/A-Bugs-Life" style="margin-right:10px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=A-Bugs-Life&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Harjappan-Singh/T-Shirt_MERN" style="margin-left:10px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Harjappan-Singh&repo=T-Shirt_MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
 
