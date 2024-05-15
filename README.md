@@ -8,7 +8,7 @@ I'm a passionate 2nd year Software Development student at DKIT, diving deep into
 
 * 🌍  I'm based in Dundalk, Ireland
 * ✉️  You can contact me at [singhharjappan@gmail.com](mailto:singhharjappan@gmail.com)
-* 🧠  I'm learning MERN stack
+* 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on full-stack applications
 * ⚡  I love listening to Punjabi Music
 
