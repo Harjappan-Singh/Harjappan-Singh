@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harjappan Singh
 =======================================================================================================================================
 
-2nd-year Software Dev Student
+3rd-year Software Dev Student
 -----------------------------
 
-I'm a passionate 2nd year Software Development student at DKIT, diving deep into web development, mobile apps, and the exciting world of machine learning. I'm a strong believer in using tech for good and love collaborating with others who share that vision. Always learning, I'm constantly on the lookout for new projects, trends, and opportunities to grow in the ever-evolving software development landscape.
+I'm a passionate 3rd year Software Development student at DKIT, diving deep into web development, mobile apps, and the exciting world of machine learning. I'm a strong believer in using tech for good and love collaborating with others who share that vision. Always learning, I'm constantly on the lookout for new projects, trends, and opportunities to grow in the ever-evolving software development landscape.
 
 * 🌍  I'm based in Dundalk, Ireland
 * ✉️  You can contact me at [singhharjappan@gmail.com](mailto:singhharjappan@gmail.com)
